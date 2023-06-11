@@ -10,6 +10,7 @@ Returns text transcribed from the audio file  to the user.
 <h2>Languages and Utilities Used</h2>
 
 - <b>Java</b>
+- <b>GSON</b>
 - <b>HTML</b>
 
 <h2>Environments Used </h2>
