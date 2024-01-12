@@ -1,6 +1,6 @@
 # Transcription with AssemblyAI API - Java
 
-This project demonstrates how to use the AssemblyAI API for audio transcription in Java. AssemblyAI is an Automatic Speech Recognition (ASR) service that converts spoken language into written text.
+This project demonstrates utilizes the AssemblyAI API for audio transcription in Java. AssemblyAI is an Automatic Speech Recognition (ASR) service that converts spoken language into written text.
 
 ## Prerequisites
 
@@ -14,7 +14,6 @@ Before running the code, make sure you have the following:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/james19190/TranscribeAudio.git
-   cd usingAPIS
    ```
 
 2. Open the main.java file and replace Keys.authKey with your AssemblyAI API key.
