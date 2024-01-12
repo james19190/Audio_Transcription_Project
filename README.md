@@ -40,10 +40,6 @@ Before running the code, make sure you have the following:
 - The status of the transcription is checked at regular intervals until it is marked as "completed" or "error."
 - The transcribed text is printed to the console once the process is complete.
 
-
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 AssemblyAI for providing the Automatic Speech Recognition API.
 Gson for JSON serialization/deserialization in Java.
